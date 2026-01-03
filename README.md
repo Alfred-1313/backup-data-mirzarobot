@@ -3,4 +3,4 @@
 ## ⚙️ نصب و اجرا
 
 ```
-git clone https://github.com/Mehrdad11228/backup-data-mirzarobot.git && cd backup-data-mirzarobot && bash bachkupdatamirza.sh
+sudo bash -c "$(curl -sL https://raw.githubusercontent.com/Alfred-1313/backup-data-mirzarobot/main/bachkupdatamirza.sh)"
